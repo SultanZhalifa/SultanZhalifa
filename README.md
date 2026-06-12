@@ -1,10 +1,8 @@
 <!--
-╔══════════════════════════════════════════════════════════════╗
-║  HOW TO USE                                                  ║
-║  1. Create a repo named exactly "SultanZhalifa" on GitHub    ║
-║  2. Replace the README.md in that repo with this file        ║
-║  3. Commit — your profile updates instantly                  ║
-╚══════════════════════════════════════════════════════════════╝
+  HOW TO USE
+  1. Create a repo named exactly "SultanZhalifa" on GitHub
+  2. Replace the README.md in that repo with this file
+  3. Commit — your profile updates instantly
 -->
 
 <div align="center">
@@ -26,9 +24,9 @@
 I build fullstack web apps, Android apps, and AI-integrated systems — from computer-vision
 pipelines to tested, CI-backed applications. I care about shipping things that solve real problems.
 
-- 🔭 &ensp;Currently building with **Gemini, YOLO11, FastAPI, Next.js, Flutter**
-- 🧠 &ensp;Going deep on **LLMs, RAG, and computer vision**
-- 🎯 &ensp;Open to **software / AI engineering internships**
+- Currently building with **Gemini, YOLO11, FastAPI, Next.js, Flutter**
+- Going deep on **LLMs, RAG, and computer vision**
+- Open to **software / AI engineering internships**
 
 &nbsp;
 
@@ -38,17 +36,17 @@ pipelines to tested, CI-backed applications. I care about shipping things that s
 
 ### Featured Projects
 
-| &ensp; | Project | Description | Stack |
-|:---:|---|---|---|
-| 🛡️ | [**PestGuard AI**](https://github.com/SultanZhalifa/PestGuard-AI) | Real-time warehouse pest & bio-hazard detection with sub-second alerts and a Gemini RAG assistant | `Python` `FastAPI` `YOLO11` `OpenCV` `Gemini` `React` |
-| 💳 | [**AstraPay Naik Kelas**](https://github.com/SultanZhalifa/naik-kelas) | Explainable alternative credit-scoring engine turning QRIS history into tiered micro-loans. 20 unit + 21 edge-case tests | `Next.js` `TypeScript` `Tailwind` `Vitest` |
-| 📈 | [**Obsidian**](https://github.com/SultanZhalifa/Obsidian) | Enterprise-grade crypto paper-trading terminal with live Binance feeds, server-side indicators, RBAC & audit logging | `Next.js 15` `TypeScript` `TimescaleDB` `WebSocket` `Drizzle` |
-| 📱 | [**MiniBookLibrary**](https://github.com/SultanZhalifa/MiniBookLibrary) | Offline-first Android book manager backed by **51 automated tests** and GitHub Actions CI | `Kotlin` `MVVM` `Room` `JUnit` `MockK` |
-| 📝 | [**DevLog**](https://github.com/SultanZhalifa/devlog) | Developer progress tracker with streak heatmap, OAuth & analytics | `Next.js 15` `TypeScript` `Prisma` `PostgreSQL` |
-| 🔐 | [**SRMAudit**](https://github.com/SultanZhalifa/srmaudit-octave-allegro) | Security risk-management platform implementing OCTAVE Allegro, works cloud or fully offline | `TypeScript` `Vite` `Supabase` `IndexedDB` |
-| 🔍 | [**SaringSini**](https://github.com/SultanZhalifa/SaringSini) | Multimodal AI misinformation checker for family chats — #JuaraVibeCoding 2026 | `Node.js` `Gemini` `PWA` `Docker` |
-| 💰 | [**FinTrack AI**](https://github.com/SultanZhalifa/fintrack-ai) | AI-powered personal finance tracker with smart insights and analytics | `React` `Chart.js` `Gemini AI` |
-| 💸 | [**Duitku**](https://github.com/SultanZhalifa/Duitku) | Cross-platform personal finance app built with Flutter | `Dart` `Flutter` |
+| Project | Description | Stack |
+|---|---|---|
+| [**PestGuard AI**](https://github.com/SultanZhalifa/PestGuard-AI) | Real-time warehouse pest & bio-hazard detection with sub-second alerts and a Gemini RAG assistant | `Python` `FastAPI` `YOLO11` `OpenCV` `Gemini` `React` |
+| [**AstraPay Naik Kelas**](https://github.com/SultanZhalifa/naik-kelas) | Explainable alternative credit-scoring engine turning QRIS history into tiered micro-loans. 20 unit + 21 edge-case tests | `Next.js` `TypeScript` `Tailwind` `Vitest` |
+| [**Obsidian**](https://github.com/SultanZhalifa/Obsidian) | Enterprise-grade crypto paper-trading terminal with live Binance feeds, server-side indicators, RBAC & audit logging | `Next.js 15` `TypeScript` `TimescaleDB` `WebSocket` `Drizzle` |
+| [**MiniBookLibrary**](https://github.com/SultanZhalifa/MiniBookLibrary) | Offline-first Android book manager backed by **51 automated tests** and GitHub Actions CI | `Kotlin` `MVVM` `Room` `JUnit` `MockK` |
+| [**DevLog**](https://github.com/SultanZhalifa/devlog) | Developer progress tracker with streak heatmap, OAuth & analytics | `Next.js 15` `TypeScript` `Prisma` `PostgreSQL` |
+| [**SRMAudit**](https://github.com/SultanZhalifa/srmaudit-octave-allegro) | Security risk-management platform implementing OCTAVE Allegro, works cloud or fully offline | `TypeScript` `Vite` `Supabase` `IndexedDB` |
+| [**SaringSini**](https://github.com/SultanZhalifa/SaringSini) | Multimodal AI misinformation checker for family chats — #JuaraVibeCoding 2026 | `Node.js` `Gemini` `PWA` `Docker` |
+| [**FinTrack AI**](https://github.com/SultanZhalifa/fintrack-ai) | AI-powered personal finance tracker with smart insights and analytics | `React` `Chart.js` `Gemini AI` |
+| [**Duitku**](https://github.com/SultanZhalifa/Duitku) | Cross-platform personal finance app built with Flutter | `Dart` `Flutter` |
 
 &nbsp;
 
