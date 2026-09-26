@@ -1,17 +1,10 @@
-<!--
-  HOW TO USE
-  1. Create a repo named exactly "SultanZhalifa" on GitHub
-  2. Replace the README.md in that repo with this file
-  3. Commit — your profile updates instantly
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0e0e0,100:ffffff&height=120&section=header" width="100%" />
 
 # Sultan Zhalifunnas
 
-`Informatics · President University`
+`Informatics (Cyber Security) · President University`
 
 [![Portfolio](https://img.shields.io/badge/sultanzhalifunnas.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://sultanzhalifunnas.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sultanzhalifunnasmusyaffa)
@@ -21,12 +14,11 @@
 
 &nbsp;
 
-I build fullstack web apps, Android apps, and AI-integrated systems — from computer-vision
-pipelines to tested, CI-backed applications. I care about shipping things that solve real problems.
+Hi, I'm Sultan. 7th semester Informatics student at President University (Cyber Security concentration), graduating Dec 2027. Right now I'm a software engineer intern at Kementerian PANRB, and outside that I build web, mobile and AI side projects.
 
-- Currently building with **Gemini, YOLO11, FastAPI, Next.js, Flutter**
-- Going deep on **LLMs, RAG, and computer vision**
-- Open to **software / AI engineering internships**
+- Mostly working with **Next.js, TypeScript, Python (FastAPI), Flutter and Kotlin**
+- Currently learning more backend stuff, web scraping, and how to put LLMs into normal apps properly
+- **Open to part-time / remote roles now**, full-time from Feb 2027. Based in Cikarang, Bekasi
 
 &nbsp;
 
@@ -38,15 +30,16 @@ pipelines to tested, CI-backed applications. I care about shipping things that s
 
 | Project | Description | Stack |
 |---|---|---|
-| [**PestGuard AI**](https://github.com/SultanZhalifa/PestGuard-AI) | Real-time warehouse pest & bio-hazard detection with sub-second alerts and a Gemini RAG assistant | `Python` `FastAPI` `YOLO11` `OpenCV` `Gemini` `React` |
-| [**AstraPay Naik Kelas**](https://github.com/SultanZhalifa/naik-kelas) | Explainable alternative credit-scoring engine turning QRIS history into tiered micro-loans. 20 unit + 21 edge-case tests | `Next.js` `TypeScript` `Tailwind` `Vitest` |
-| [**Obsidian**](https://github.com/SultanZhalifa/Obsidian) | Enterprise-grade crypto paper-trading terminal with live Binance feeds, server-side indicators, RBAC & audit logging | `Next.js 15` `TypeScript` `TimescaleDB` `WebSocket` `Drizzle` |
-| [**MiniBookLibrary**](https://github.com/SultanZhalifa/MiniBookLibrary) | Offline-first Android book manager backed by **51 automated tests** and GitHub Actions CI | `Kotlin` `MVVM` `Room` `JUnit` `MockK` |
-| [**DevLog**](https://github.com/SultanZhalifa/devlog) | Developer progress tracker with streak heatmap, OAuth & analytics | `Next.js 15` `TypeScript` `Prisma` `PostgreSQL` |
-| [**SRMAudit**](https://github.com/SultanZhalifa/srmaudit-octave-allegro) | Security risk-management platform implementing OCTAVE Allegro, works cloud or fully offline | `TypeScript` `Vite` `Supabase` `IndexedDB` |
-| [**SaringSini**](https://github.com/SultanZhalifa/SaringSini) | Multimodal AI misinformation checker for family chats — #JuaraVibeCoding 2026 | `Node.js` `Gemini` `PWA` `Docker` |
-| [**FinTrack AI**](https://github.com/SultanZhalifa/fintrack-ai) | AI-powered personal finance tracker with smart insights and analytics | `React` `Chart.js` `Gemini AI` |
-| [**Duitku**](https://github.com/SultanZhalifa/Duitku) | Cross-platform personal finance app built with Flutter | `Dart` `Flutter` |
+| [**PestGuard AI**](https://github.com/SultanZhalifa/PestGuard-AI) | Real-time warehouse pest detection with alerts and a Gemini RAG assistant. Selected for Kawan Lama Group's AI Open Innovation Challenge 2026 | `Python` `FastAPI` `YOLO11` `OpenCV` `Gemini` `React` |
+| [**AstraPay Naik Kelas**](https://github.com/SultanZhalifa/naik-kelas) | Explainable alternative credit scoring that turns QRIS transaction history into tiered micro-loans | `Next.js` `TypeScript` `Tailwind` `Vitest` |
+| [**OBSIDIAN**](https://github.com/SultanZhalifa/Obsidian) | Crypto paper-trading terminal on live Binance data, indicators computed server-side, with auth, RBAC and audit logs | `Next.js` `TypeScript` `TimescaleDB` `WebSocket` `Drizzle` |
+| [**SRMAudit**](https://github.com/SultanZhalifa/srmaudit-octave-allegro) | Security risk assessment platform based on OCTAVE Allegro, works with Supabase or fully offline | `TypeScript` `Vite` `Supabase` `IndexedDB` |
+| [**DevLog**](https://github.com/SultanZhalifa/devlog) | Daily dev log with streak heatmap, OAuth and simple analytics | `Next.js` `TypeScript` `Prisma` `PostgreSQL` |
+| [**FounderIQ**](https://github.com/SultanZhalifa/FounderIQ) · [live](https://founderiq.vercel.app) | AI tool to validate startup ideas, generate a business model canvas and pitch drafts | `Next.js` `TypeScript` `Claude API` `Zustand` |
+| [**MiniBookLibrary**](https://github.com/SultanZhalifa/MiniBookLibrary) | Offline-first Android book manager with 51 automated tests and CI | `Kotlin` `MVVM` `Room` `JUnit` `MockK` |
+| [**SaringSini**](https://github.com/SultanZhalifa/SaringSini) | Hoax checker for family group chats (text, image, voice). Built for #JuaraVibeCoding 2026 | `Node.js` `Gemini` `PWA` `Docker` |
+| [**FinTrack AI**](https://github.com/SultanZhalifa/fintrack-ai) · [live](https://financetrackersultan.vercel.app) | Local-first personal finance tracker with budgets, forecasts and AI insights | `React` `Chart.js` `Gemini` |
+| [**Duitku**](https://github.com/SultanZhalifa/Duitku) · [live](https://sultanzhalifa.github.io/Duitku/) | Offline expense tracker for Android, iOS and web | `Dart` `Flutter` |
 
 &nbsp;
 
@@ -124,7 +117,7 @@ pipelines to tested, CI-backed applications. I care about shipping things that s
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SultanZhalifa&theme=default&hide_border=true&background=00000000&ring=24292f&fire=24292f&currStreakLabel=24292f&sideLabels=57606a&dates=57606a&currStreakNum=24292f&sideNums=24292f" />
+<img src="https://streak-stats.demolab.com?user=SultanZhalifa&theme=default&hide_border=true&background=00000000&ring=24292f&fire=24292f&currStreakLabel=24292f&sideLabels=57606a&dates=57606a&currStreakNum=24292f&sideNums=24292f" />
 
 </div>
 
