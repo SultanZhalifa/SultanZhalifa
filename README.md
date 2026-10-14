@@ -6,7 +6,7 @@
 
 `Informatics (Cyber Security) · President University`
 
-[![Portfolio](https://img.shields.io/badge/sultanzhalifunnas.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://sultanzhalifunnas.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/sultanzhalifunnas.pages.dev-000?style=flat-square&logo=cloudflare&logoColor=white)](https://sultanzhalifunnas.pages.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sultanzhalifunnasmusyaffa)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sultanzhalifunnasmusyaffa@gmail.com)
 
