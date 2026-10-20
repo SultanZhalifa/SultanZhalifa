@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0e0e0,100:ffffff&height=120&section=header" width="100%" />
-
 # Sultan Zhalifunnas
 
 `Informatics (Cyber Security) · President University`
@@ -14,11 +12,11 @@
 
 &nbsp;
 
-Hi, I'm Sultan. 7th semester Informatics student at President University (Cyber Security concentration), graduating Dec 2027. Right now I'm a software engineer intern at Kementerian PANRB, and outside that I build web, mobile and AI side projects.
+Hi, I'm Sultan. Informatics student at President University (Cyber Security concentration), graduating Dec 2027. Right now I'm a software engineer intern at Kementerian PANRB, and outside that I build web, mobile and AI side projects.
 
 - Mostly working with **Next.js, TypeScript, Python (FastAPI), Flutter and Kotlin**
 - Currently learning more backend stuff, web scraping, and how to put LLMs into normal apps properly
-- **Open to part-time / remote roles now**, full-time from Feb 2027. Based in Cikarang, Bekasi
+- **Open to part-time / remote roles now**, full-time after I graduate (Dec 2027). Based in Cikarang, Bekasi
 
 &nbsp;
 
@@ -31,6 +29,7 @@ Hi, I'm Sultan. 7th semester Informatics student at President University (Cyber 
 | Project | Description | Stack |
 |---|---|---|
 | [**PestGuard AI**](https://github.com/SultanZhalifa/PestGuard-AI) | Real-time warehouse pest detection with alerts and a Gemini RAG assistant. Selected for Kawan Lama Group's AI Open Innovation Challenge 2026 | `Python` `FastAPI` `YOLO11` `OpenCV` `Gemini` `React` |
+| [**Sultan Arcade**](https://sultan-arcade.pages.dev) · live | Ten browser mini games with weekly leaderboards; chess and four other games can be played online with the server as referee. Source is private | `JavaScript` `Cloudflare Workers` `Durable Objects` `Supabase` `PWA` |
 | [**AstraPay Naik Kelas**](https://github.com/SultanZhalifa/naik-kelas) | Explainable alternative credit scoring that turns QRIS transaction history into tiered micro-loans | `Next.js` `TypeScript` `Tailwind` `Vitest` |
 | [**OBSIDIAN**](https://github.com/SultanZhalifa/Obsidian) | Crypto paper-trading terminal on live Binance data, indicators computed server-side, with auth, RBAC and audit logs | `Next.js` `TypeScript` `TimescaleDB` `WebSocket` `Drizzle` |
 | [**SRMAudit**](https://github.com/SultanZhalifa/srmaudit-octave-allegro) | Security risk assessment platform based on OCTAVE Allegro, works with Supabase or fully offline | `TypeScript` `Vite` `Supabase` `IndexedDB` |
@@ -92,39 +91,10 @@ Hi, I'm Sultan. 7th semester Informatics student at President University (Cyber 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </td>
 </tr>
 </table>
-
-&nbsp;
-
----
-
-&nbsp;
-
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SultanZhalifa&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=24292f&text_color=57606a&icon_color=24292f&ring_color=24292f" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SultanZhalifa&layout=compact&hide_border=true&bg_color=00000000&title_color=24292f&text_color=57606a" height="170" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SultanZhalifa&theme=default&hide_border=true&background=00000000&ring=24292f&fire=24292f&currStreakLabel=24292f&sideLabels=57606a&dates=57606a&currStreakNum=24292f&sideNums=24292f" />
-
-</div>
-
-&nbsp;
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:e0e0e0&height=80&section=footer" width="100%" />
-
-</div>
